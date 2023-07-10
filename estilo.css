@@ -1,0 +1,53 @@
+@meta charset:"UTF-8";
+
+body {
+    background-color: #4682B4;
+    color: gray;
+}
+
+.interface {
+    margin: auto;
+    width: 900px;
+    background-color: #E0FFFF;
+    padding: 10px;
+}
+
+.cabecalho {
+    margin-left: 15px;
+    margin-right: 15px;
+    border-bottom: 1px black solid;
+    height: 100px;
+}
+
+.title {
+    color: #4682B4;
+    text-align: center;
+    font-family: Courier New, sans-serif;
+    font-size: 30pt;
+    margin-top: 9px;
+}
+
+h3 {
+    font-family: Courier New, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+    color: #4682B4;
+    margin-top: -15px;
+    margin-bottom: -10px;
+}
+
+.principal {
+    font-family: Calibri, sans-serif;
+    margin-left: 9px;
+}
+
+p {
+    font-size: 13pt;
+}
+
+.rodape {
+    border-top: 1px black solid;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
